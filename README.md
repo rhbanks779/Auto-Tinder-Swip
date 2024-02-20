@@ -1,2 +1,2 @@
-# Auto-Tinder-Swip
+# Auto-Tinder-Swipe
 Automating tinder app
